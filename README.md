@@ -10,7 +10,7 @@ To be opened and compiled with Microsoft Keyboard Layout Creator.
 - circumflex accent `Alt Gr '`
 - tilde `Alt Gr #`
 
-**Greek letters** are inserted as follows 
+**Greek letters**
 - α `Alt Gr a`
 - β `Alt Gr b`
 - γ `Alt Gr g`
@@ -18,24 +18,34 @@ To be opened and compiled with Microsoft Keyboard Layout Creator.
 - Δ `Alt Gr Shift d`
 - ε `Alt Gr e`
 - ζ `Alt Gr z`
+- η `Alt Gr h`
 - θ `Alt Gr q`
+- ι `Alt Gr i`
+- κ `Alt Gr k`
 - λ `Alt Gr l`
 - μ `Alt Gr m`
+- ν `Alt Gr n`
 - Π `Alt Gr Shift p`
 - π `Alt Gr p`
+- ρ `Alt Gr r`
 - Σ `Alt Gr Shift s`
 - σ `Alt Gr s`
 - φ `Alt Gr f`
 - χ `Alt Gr x`
-- η, ι, κ, ν, ξ, ο, ρ, ς, τ, υ, ψ, ω not available
+- ξ, ο, ς, τ, υ, ψ, ω not available
 
 **Mathematical symbols**
 - ‰ `Alt Gr 5`
 - √ `Alt Gr 6`
 - × `Alt Gr 8`
 - ² `Alt Gr 2`
+- ³ `Alt Gr 3`
 - ± `Alt Gr =`
-- ≈ `Alt Gr Shift =`
+- ≈ `Alt Gr Shift #`
+- ≤ `Alt Gr Shift <`
+- ≥ `Alt Gr Shift >`
+- ≠ `Alt Gr Shift =`
+- ÷ `Alt Gr Shift /`
 
 **IPA and other symbols**
 - ç `Alt Gr c`
@@ -55,3 +65,7 @@ To be opened and compiled with Microsoft Keyboard Layout Creator.
 - † `Alt Gr t`
 - ‡ `Alt Gr Shift t`
 - § `Alt Gr Shift 8`
+- ↑ `Alt Gr Shift [`
+- ↓ `Alt Gr Shift '`
+- ← `Alt Gr Shift ;`
+- → `Alt Gr Shift ]`
